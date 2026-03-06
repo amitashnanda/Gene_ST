@@ -1,0 +1,19 @@
+{
+  "training_completed": "2025-12-03T01:27:43.039159",
+  "model_path": "/pscratch/sd/a/ananda/Spatial/Final_Code/models/yolo11_final/best.pt",
+  "best_epoch": 50,
+  "best_metrics": {
+    "mAP50_box": 0.76757,
+    "mAP50-95_box": 0.45756,
+    "mAP50_mask": 0.41073,
+    "mAP50-95_mask": 0.25021,
+    "precision_box": 0.68337,
+    "recall_box": 0.78078
+  },
+  "final_losses": {
+    "box_loss": 1.68964,
+    "seg_loss": 2.34974,
+    "cls_loss": 1.49293,
+    "dfl_loss": 2.54294
+  }
+}

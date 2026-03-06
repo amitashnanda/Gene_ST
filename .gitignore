@@ -1,0 +1,22 @@
+# Large datasets and experiment outputs
+dataset_raw/
+dataset_processed/
+dataset_yolo/
+models/
+results/
+runs/
+analysis/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# Local environment files
+.venv/
+venv/
+.env

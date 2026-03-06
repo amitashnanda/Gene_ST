@@ -1,2 +1,0 @@
-patch_name xmin ymin xmax ymax width height
-patch_0001.png 538 708 1237 1373 699 665
