@@ -4,7 +4,7 @@ GeneST is a deep learning and transformer based spatial transcriptomics image-pr
 
 
 
-![](results/Gene_ST.png)
+![](plots/Gene_ST.png)
 
 ## Repository Layout
 
